@@ -35,10 +35,6 @@ body {
     }
   }
 
-  .wrap {
-    text-align: center;
-  }
-  
   h1 {
     font-size: 150%;
     font-family: sans-serif;
@@ -127,12 +123,12 @@ body {
   
   .card img {
     width: 100%;
+    border-radius: 0px 0px 50px 50px;
   }
 
 .homework .card:hover .image {
   opacity: 0.3;
 }
-
 
   footer {
     width: 100%;
