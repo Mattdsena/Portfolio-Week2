@@ -33,7 +33,7 @@ Lastly we needed to make sure out website was a responsive layout and could adju
 
 ![Stack Example](https://github.com/Mattdsena/Portfolio-Week2/blob/main/assets/Images/Stack-example.jpg)
 
-I also made my footer follow similar structure to my header nav bar, but I added links to my Github and my Instagram
+I also made my footer follow similar structure to my header nav bar, but I added links to my Github and my Instagram, whilst also adding a phone number as part of the contact me
 
 After I completed all that, I fixed up a few things I didnt like but overall I am happy with how the functionality works and I can build on the CSS as I go along further in the course
 
